@@ -4,6 +4,7 @@
 Installation:
 This repository contains the .tcl, .bit, .hwh files required for use with the PYNQ Z2 Xilinx Development board, along with the images to view on the Notebook. 
 The contents of the .zip must be downloaded and extracted to the working directory of the board for the Jupyter Notebook to access them.
+The System Generator file can also be found (.slx)
 
 Description:
 The purpose of the PYNQ design was to analyse a spectrum of signals using hardware acceleration of the Fast Fourier Transform (FFT). 
