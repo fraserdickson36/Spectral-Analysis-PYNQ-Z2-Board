@@ -1,10 +1,11 @@
 *****************************
 *Group L - Spectral Analysis*
 *****************************
-
+Installation:
 This repository contains the .tcl, .bit, .hwh files required for use with the PYNQ Z2 Xilinx Development board, along with the images to view on the Notebook. 
 The contents of the .zip must be downloaded and extracted to the working directory of the board for the Jupyter Notebook to access them.
 
+Description:
 The purpose of the PYNQ design was to analyse a spectrum of signals using hardware acceleration of the Fast Fourier Transform (FFT). 
 The user can select whatever frequency they want using a slider widget. 
 The signal is then displayed through various window functions (Hann, Hamming and Blackman) so that the data can be analysed. 
