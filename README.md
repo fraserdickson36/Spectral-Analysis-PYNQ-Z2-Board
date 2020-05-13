@@ -20,9 +20,9 @@ User Guide:
 5. Visualise the output from the buffer, viewing the spike at the chosen frequency.
 
 Authors:
-Fraser Dickson
-Andrew Clark
-Sean Heaney
+Fraser Dickson.
+Andrew Clark.
+Sean Heaney.
 
 GitHub Link:
 https://github.com/fraspop4236/Spectral-Analysis-PYNQ-Z2-Board
