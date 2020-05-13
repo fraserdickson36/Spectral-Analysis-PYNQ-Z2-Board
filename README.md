@@ -19,3 +19,8 @@ User Guide:
 3. Select which window you wish to apply to signal.
 4. Run the signal through the hardware FFT & Magnitude.
 5. Visualise the output from the buffer, viewing the spike at the chosen frequency.
+
+Authors:
+Fraser Dickson
+Andrew Clark
+Sean Heaney
